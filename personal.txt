@@ -1,3 +1,8 @@
 sumit is bad friend
+<<<<<<< HEAD
 
 summit likes green
+=======
+summit likes blue.
+I like pink
+>>>>>>> personal_quotes
